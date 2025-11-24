@@ -1,1 +1,1 @@
-https://github.com/TWOINTHEPINKY/posmotri-v-okno-ad
+https://github.com/TWOINTHEPINKY/posmotri-v-okno-ad/
